@@ -1,7 +1,7 @@
 [Dice PHP Dependency Injection Container](https://r.je/dice.html)
 ======================================
 
-Dice is a minimalist Dependency Injection Container for PHP with a focus on being lightweight and fast as well as requiring as little configuration as possible. PHP 8.0 support.
+Dice is a minimalist Dependency Injection Container for PHP with a focus on being lightweight and fast as well as requiring as little configuration as possible. Now support PHP 8.0.
 
 
 Project Goals
@@ -76,6 +76,11 @@ Originally developed by Tom Butler (@TomBZombie), with many thanks to daniel-mei
 
 Updates
 ------------
+### 11/12/2020 4.0 Release - PHP 8.0 support
+
+Now Dice work with PHP 8.0 (also 7.3 and 7.4)
+
+#### replace deprecated Reflection method getClass() with getType().
 
 ### 15/11/2018 4.0 Release - Backwards incompatible
 

@@ -57,7 +57,7 @@ For complete documentation please see the [Dice PHP Dependency Injection contain
 PHP version compatibility
 -------------------------
 
-Dice is compatible with PHP 8.0 and 7.x, there are archived versions of Dice which support PHP 5.6 however this is no longer maintanied.
+Dice is compatible with PHP 8.0 (also 7.4 and 7.3), there are archived versions of Dice which support PHP 5.6 however this is no longer maintanied.
 
 
 Performance

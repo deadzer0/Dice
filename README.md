@@ -76,7 +76,7 @@ Originally developed by Tom Butler (@TomBZombie), with many thanks to daniel-mei
 
 Updates
 ------------
-### 11/12/2020 4.0 Release - PHP 8.0 support
+### 11/12/2020 Update - PHP 8.0 support
 
 Now Dice work with PHP 8.0 (also 7.3 and 7.4). Replacing deprecated Reflection method getClass() with getType(). Addition instanceof checks.
 

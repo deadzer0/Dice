@@ -78,9 +78,7 @@ Updates
 ------------
 ### 11/12/2020 4.0 Release - PHP 8.0 support
 
-Now Dice work with PHP 8.0 (also 7.3 and 7.4)
-
-#### replace deprecated Reflection method getClass() with getType().
+Now Dice work with PHP 8.0 (also 7.3 and 7.4). Replacing deprecated Reflection method getClass() with getType(). Addition instanceof checks.
 
 ### 15/11/2018 4.0 Release - Backwards incompatible
 

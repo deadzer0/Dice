@@ -1,7 +1,7 @@
 [Dice PHP Dependency Injection Container](https://r.je/dice.html)
 ======================================
 
-Dice is a minimalist Dependency Injection Container for PHP with a focus on being lightweight and fast as well as requiring as little configuration as possible. Now support PHP 8.0.
+Dice is a minimalist Dependency Injection Container for PHP with a focus on being lightweight and fast as well as requiring as little configuration as possible. Now supports PHP 8.0.
 
 
 Project Goals
@@ -40,7 +40,7 @@ class B {
 require_once 'Dice.php';
 $dice = new \Dice\Dice;
 
-$a = $dice->create('A');
+$a = $dice->create(A::class);
 
 var_dump($a->b); //B object
 
